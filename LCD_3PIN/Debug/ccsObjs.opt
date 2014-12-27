@@ -1,0 +1,1 @@
+"./LCD_3PIN.o" -Wl,--start-group -l"lpmsp430g2553_core" -l"m" -Wl,--end-group 
